@@ -2,7 +2,7 @@
 /**
  * Author: Luis del Cid
  * Author URI: https://luisdelcid.com/
- * Description: LDC_Cloudinary::get_thumbnail_id($attachment_id, $options);
+ * Description: The LDC_Cloudinary::get_thumbnail_id method generates a thumbnail for an image attachment based on Cloudinary options defined on the fly and inserts an attachment into the media library. It returns the ID of the entry created in the wp_posts table.
  * Domain Path:
  * License: GPL2
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -10,7 +10,7 @@
  * Plugin Name: LDC Cloudinary
  * Plugin URI: https://luisdelcid.com/ldc-cloudinary/
  * Text Domain: ldc-cloudinary
- * Version: 0.4.10
+ * Version: 0.4.10.1
  */
  // ----------------------------------------------------------------------------------------------------
 
