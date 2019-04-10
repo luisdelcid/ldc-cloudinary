@@ -1,0 +1,6 @@
+{
+    "require": {
+        "cloudinary/cloudinary_php": "^1.13",
+        "yahnis-elsts/plugin-update-checker": "^4.6"
+    }
+}
