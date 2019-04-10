@@ -4,7 +4,7 @@ Donate link: https://luisdelcid.com/ldc-cloudinary/
 Tags: cloudinary
 Requires at least: 5.0
 Tested up to: 5.1.1
-Stable tag: 0.4.10.4
+Stable tag: 0.4.10.5
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -30,17 +30,5 @@ Here's a link to [Cloudflare Docs](https://cloudinary.com/documentation/php_imag
 
 == Changelog ==
 
-= 0.4.10.4 =
+= 0.4.10.5 =
 * Stable release
-
-= 0.4.10.3 =
-* Stable release
-
-= 0.4.10.2 =
-* Third release
-
-= 0.4.10.1 =
-* Second release
-
-= 0.4.10 =
-* First release
