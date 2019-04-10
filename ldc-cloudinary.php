@@ -10,7 +10,7 @@
  * Plugin Name: LDC Cloudinary
  * Plugin URI: https://luisdelcid.com/ldc-cloudinary/
  * Text Domain: ldc-cloudinary
- * Version: 0.4.10.1
+ * Version: 0.4.10.2
  */
  // ----------------------------------------------------------------------------------------------------
 
