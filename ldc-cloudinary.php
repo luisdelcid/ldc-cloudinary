@@ -10,7 +10,7 @@
  * Plugin Name: LDC Cloudinary
  * Plugin URI: https://luisdelcid.com/ldc-cloudinary/
  * Text Domain: ldc-cloudinary
- * Version: 0.4.10.5
+ * Version: 0.4.10.6
  */
  // ----------------------------------------------------------------------------------------------------
 
@@ -67,9 +67,9 @@
 					require_once(ABSPATH . 'wp-admin/includes/image.php');
 					require_once(ABSPATH . 'wp-admin/includes/media.php');
 				}
+				Puc_v4_Factory::buildUpdateChecker('https://github.com/luisdelcid/ldc-cloudinary/', __FILE__, 'ldc-cloudinary');
 				self::$continue = true;
 			}
-			Puc_v4_Factory::buildUpdateChecker('https://github.com/luisdelcid/ldc-cloudinary/', __FILE__, 'ldc-cloudinary');
 		}
 
 	 // ------------------------------------------------------------------------------------------------
