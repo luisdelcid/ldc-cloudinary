@@ -4,7 +4,7 @@ Donate link: https://luisdelcid.com/ldc-cloudinary/
 Tags: cloudinary
 Requires at least: 5.0
 Tested up to: 5.0
-Stable tag: 0.4.10.7
+Stable tag: 0.7.8
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -29,6 +29,9 @@ Here's a link to [Cloudinary Docs](https://cloudinary.com/documentation/php_imag
 4. Use the `LDC_Cloudinary::get_thumbnail_id` method to get/generate a thumbnail for an image attachment.
 
 == Changelog ==
+
+= 0.7.8 =
+* PHP version updated
 
 = 0.4.10.7 =
 * Bug fixed
